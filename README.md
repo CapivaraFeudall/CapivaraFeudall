@@ -1,5 +1,5 @@
 - Olá, Me chamo Alan Tavares
-- Estou iniciando no mundo da programação e tenho interesse em trabalhar na aréa de redes e internet 
+- Estou iniciando no mundo da programação e tenho interesse em trabalhar na área de redes e internet 
 - Atualmente estou estudando progração desde o Basico, começando com JavaScript
 - Gostaria de estar apredendo cada vez mais nesse comunidade 
 - Você pode me encontrar pelo instagram @eoalanpow
